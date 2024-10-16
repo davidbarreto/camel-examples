@@ -1,0 +1,9 @@
+{
+  "paymentId": "44b6e0f9-aee9-4a3f-9d60-1381dce15a3a",
+  "transactionId": "TRX1000",
+  "amount": 100.50,
+  "currency": "USD",
+  "paymentDate": "2020-11-30T19:05:00.000000",
+  "paymentMethod": "Credit Card",
+  "status": "Completed"
+}

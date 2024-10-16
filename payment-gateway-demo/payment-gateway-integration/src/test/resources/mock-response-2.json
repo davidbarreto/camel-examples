@@ -1,0 +1,9 @@
+{
+  "paymentId": "c2770ca6-f63a-46bf-8f02-f62441e22832",
+  "transactionId": "TRX1001",
+  "amount": 250.00,
+  "currency": "USD",
+  "paymentDate": null,
+  "paymentMethod": "Bank Transfer",
+  "status": "Pending"
+}
